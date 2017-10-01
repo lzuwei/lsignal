@@ -1,3 +1,8 @@
 *.o
 lsignal
 
+.DS_Store
+.idea/
+build/
+cmake-build-debug/
+cmake-build-release/

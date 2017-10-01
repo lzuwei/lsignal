@@ -8,9 +8,7 @@
 
 #include "lsignal.h"
 
-using lsignal::connection;
-using lsignal::signal;
-using lsignal::slot;
+using namespace lsignal;
 
 void print_sum(int x, int y)
 {
